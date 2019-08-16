@@ -38,14 +38,14 @@ namespace HostApplication
                 ZIP = "28226"
             };
 
-            // read all templates
+             // read all templates
             String[] files = Directory.GetFiles(sTemplateFolder);
 
-            // parallel for loop over all files
-            Parallel.For(0, files.Length,
-                         index => {
-                             MergeDocument(files[index], report); // merge template
-                         });
+            // loop through all files parallel
+            Parallel.ForEach(files, (currentFile) =>
+            {
+                MergeDocument(currentFile, report); // merge template
+            });
         }
 
         private void MergeDocument(string Filename, object Data)
