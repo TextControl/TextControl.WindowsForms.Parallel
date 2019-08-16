@@ -1,0 +1,7 @@
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\HostApplication\bin\Debug\ProcessingApplication.exe.config
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\HostApplication\bin\Debug\ProcessingApplication.exe
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\HostApplication\bin\Debug\ProcessingApplication.pdb
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.csprojResolveAssemblyReference.cache
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.exe.licenses
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.exe
+C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.pdb
