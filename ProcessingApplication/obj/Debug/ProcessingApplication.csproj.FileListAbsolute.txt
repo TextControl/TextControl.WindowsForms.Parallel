@@ -5,3 +5,13 @@ C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\Proc
 C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.exe.licenses
 C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.exe
 C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\ProcessingApplication\obj\Debug\ProcessingApplication.pdb
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\ProcessingApplication.exe.config
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\ProcessingApplication.exe
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\ProcessingApplication.pdb
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.csproj.AssemblyReference.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.exe.licenses
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.csproj.CoreCompileInputs.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.csproj.CopyComplete
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.exe
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\ProcessingApplication\obj\Debug\ProcessingApplication.pdb

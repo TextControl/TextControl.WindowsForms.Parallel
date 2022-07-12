@@ -35,3 +35,43 @@ C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\Host
 C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
 C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\HostApplication\obj\Debug\HostApplication.exe
 C:\Users\bjoer\Documents\Visual Studio 2017\Projects\tx-parallel-processing\HostApplication\obj\Debug\HostApplication.pdb
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template10.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template11.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template12.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template13.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template14.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template15.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template2.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template3.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template4.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template5.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template6.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template7.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template8.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\documents\template9.tx
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\HostApplication.exe.config
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\HostApplication.exe
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\HostApplication.pdb
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXTextControl.Server.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXDocumentServer.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXTextControl.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXImageProvider.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\ProcessingApplication.pdb
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\ProcessingApplication.exe.config
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXTextControl.Server.xml
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXDocumentServer.xml
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\TXTextControl.xml
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\de\TXDocumentServer.resources.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\bin\Debug\de\TXTextControl.resources.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.csproj.AssemblyReference.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.frmMain.resources
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.csproj.CoreCompileInputs.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.csproj.CopyComplete
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.exe
+C:\Users\ZuzannaK\Documents\github\TextControl.WindowsForms.Parallel\HostApplication\obj\Debug\HostApplication.pdb
